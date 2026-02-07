@@ -1,0 +1,14 @@
+# Dedalus outputs
+snapshots*/
+frames_*/
+*.h5
+*.png
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
